@@ -1,1 +1,2 @@
 Initial thoughts about what data could be useful for analysis project
+We need to think about the statistical techniques to apply
