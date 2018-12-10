@@ -9,3 +9,5 @@ We'll need to determine who is responsible for this project.
 We'll probably need a programmer. 
 This person will need to be competent in R or Python, preferably both.
 Third team member necessary, probably a project assistant to help with administration.
+
+The programmer also needs to be familiar with Pandas matplotlib and ggplot.
