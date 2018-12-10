@@ -1,2 +1,3 @@
 Project: 
-A data analyis project to explore how patient inflammation changes over time after surgery
+A data analyis project to explore how patient inflammation changes over time after surgery.  Jane is a Data Scientist and Samit is a statististician.   We'll need to determine who is responsible for this project.
+
